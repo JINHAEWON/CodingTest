@@ -1,4 +1,4 @@
-  public int solution(int n, int[][] costs) {
+  	 public int solution(int n, int[][] costs) {
 			int answer = 0;
 			PriorityQueue<int[]> LandLinkedCost = new PriorityQueue<int[]>(
 					new Comparator<int[]>() {
