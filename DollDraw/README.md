@@ -26,8 +26,6 @@ moves
 result  
 4  
   
-# Pseudo Code 
-
 
 
 
